@@ -1,0 +1,8 @@
+
+* Image Magic API
+
+*** Running tests
+
+#+begin_src shell
+cd image-magic-api
+#+end_src

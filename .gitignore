@@ -1,0 +1,15 @@
+*.class
+*.log
+.DS_STORE
+target/
+project/project/
+project/target/
+logs/
+.bsp/
+.bloop/
+.metals/
+target/
+.direnv/
+.idea/  
+.scala-build/
+static/
